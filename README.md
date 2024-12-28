@@ -1,6 +1,8 @@
 # **HEART DISEASE PREDICTION USING PATIENT DATA**
 ### **Logistic regression**
 
+![image_alt]([https://github.com/AbelEsther/AbelEsther/blob/4ba27db552b9456bd3f6faf421dfff91acd9b28a/Esther_Abel.png](https://github.com/AbelEsther/HEART-DISEASE-PREDICTION/blob/15be32778c7e80a02453d319e5f61b37235990df/heart%20disease.jpg))
+
 ---
 ## Notebook used in Data Analysis and Model Building
 [heart_disease_prediction.ipynb]( )
