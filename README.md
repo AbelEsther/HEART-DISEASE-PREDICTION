@@ -3,11 +3,11 @@
 
 ---
 ## Notebook used in Data Analysis and Model Building
-[heart_disease.ipynb]( )
+[heart_disease_prediction.ipynb]( )
 ## **Dataset Link**
 [heart_disease.csv](https://github.com/AbelEsther/HEART-DISEASE-PREDICTION/blob/c1d918f95e54f039267226c028cd96c452c92df0/heart_disease.csv)
 
-#  Problem Introduction & Motivation
+##  Problem Introduction & Motivation
 
 Heart disease is one of the leading causes of mortality worldwide, accounting for a significant portion of global deaths each year. Early detection and intervention can greatly improve patient outcomes, reducing the risk of severe complications or death. However, diagnosing heart disease is complex, as it often requires analyzing multiple physiological indicators and symptoms that may not always clearly indicate the presence of the disease.
 
@@ -32,21 +32,20 @@ The Heart Disease Dataset contains information on nearly 300 medical patients ev
 I will use this dataset for a classification analysis, focusing on predicting the `diagnosis` (presence of heart disease) based on the available patient characteristics.
 
 ---
-# Data Preparation (EDA)
+### Data Preparation (EDA)
 *   Loading the Data
 *   Data Cleaning
 *   Handling Missing Data
 *   Transforming
 *   Summarizing and Visualization
 ---
-## Loading the data
+### Loading the data
 *   Load the dataset by importing the neccesary libraries and reading the csv file from google drive
 *   Load the uploaded CSV file into a DataFrame
 *   Inspect its structure, types, and basic statistics to gain initial insights.
 
 ---
-#Model Evaluation
-### Model Evaluation Summary
+## Model Evaluation Summary
 
 Based on the displayed results, here’s an evaluation of the model’s performance:
 
@@ -89,7 +88,7 @@ Based on the displayed results, here’s an evaluation of the model’s performa
 
 ---
 
-# **Analysis Summary**
+## **Analysis Summary**
 
 In this analysis, I aimed to build a predictive model to classify patients as having heart disease or not based on key medical and demographic characteristics. My workflow included data preparation, model selection/building, and model evaluation using logistic regression. Below is a summary of each step:
 
